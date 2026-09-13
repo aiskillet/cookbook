@@ -1,0 +1,12 @@
+{
+  "name": "code-quality-pack",
+  "description": "Ship better code: review, quality-writing, refactoring skills plus the PR-reviewer and test-writer agents.",
+  "version": "0.1.0",
+  "includes": [
+    { "type": "skill", "name": "code-review" },
+    { "type": "skill", "name": "writing-quality-code" },
+    { "type": "skill", "name": "refactoring-patterns" },
+    { "type": "agent", "name": "pr-reviewer" },
+    { "type": "agent", "name": "test-writer" }
+  ]
+}

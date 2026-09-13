@@ -1,0 +1,12 @@
+{
+  "name": "backend-pack",
+  "description": "Everything for building solid backend services: API design, error handling, SQL, validation, and webhooks.",
+  "version": "0.1.0",
+  "includes": [
+    { "type": "skill", "name": "api-design" },
+    { "type": "skill", "name": "error-handling" },
+    { "type": "skill", "name": "sql-optimization" },
+    { "type": "skill", "name": "input-validation" },
+    { "type": "skill", "name": "webhook-design" }
+  ]
+}

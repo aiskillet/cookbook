@@ -1,0 +1,10 @@
+{
+  "name": "devops-pack",
+  "description": "Ship and operate reliably: Dockerfile best practices, CI/CD pipelines, and secrets management.",
+  "version": "0.1.0",
+  "includes": [
+    { "type": "skill", "name": "dockerfile-best-practices" },
+    { "type": "skill", "name": "ci-cd-pipelines" },
+    { "type": "skill", "name": "secrets-management" }
+  ]
+}

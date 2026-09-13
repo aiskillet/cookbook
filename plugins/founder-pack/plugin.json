@@ -1,0 +1,11 @@
+{
+  "name": "founder-pack",
+  "description": "Go to market: positioning and competitive-analysis skills, the research-assistant agent, and meeting-notes.",
+  "version": "0.1.0",
+  "includes": [
+    { "type": "skill", "name": "positioning" },
+    { "type": "skill", "name": "competitive-analysis" },
+    { "type": "skill", "name": "meeting-notes" },
+    { "type": "agent", "name": "research-assistant" }
+  ]
+}

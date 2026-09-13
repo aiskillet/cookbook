@@ -1,0 +1,10 @@
+{
+  "name": "docs-pack",
+  "description": "Write docs people read: technical-writing and README-craft skills plus the docs-generator agent.",
+  "version": "0.1.0",
+  "includes": [
+    { "type": "skill", "name": "technical-writing" },
+    { "type": "skill", "name": "readme-craft" },
+    { "type": "agent", "name": "docs-generator" }
+  ]
+}

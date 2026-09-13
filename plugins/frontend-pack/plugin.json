@@ -1,0 +1,9 @@
+{
+  "name": "frontend-pack",
+  "description": "Build coherent, accessible UI: design systems and accessibility (a11y).",
+  "version": "0.1.0",
+  "includes": [
+    { "type": "skill", "name": "design-systems" },
+    { "type": "skill", "name": "accessibility-a11y" }
+  ]
+}

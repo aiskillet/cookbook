@@ -1,0 +1,10 @@
+{
+  "name": "data-pack",
+  "description": "Work with data and LLMs: SQL optimization and prompt-engineering skills plus the sql-writer agent.",
+  "version": "0.1.0",
+  "includes": [
+    { "type": "skill", "name": "sql-optimization" },
+    { "type": "skill", "name": "prompt-engineering" },
+    { "type": "agent", "name": "sql-writer" }
+  ]
+}
