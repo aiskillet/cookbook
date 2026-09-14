@@ -1,11 +1,19 @@
 {
   "name": "founder-pack",
-  "description": "Go to market: positioning and competitive-analysis skills, the research-assistant agent, and meeting-notes.",
-  "version": "0.1.0",
+  "description": "The founder/CEO operating system: strategy, go-to-market, fundraising, customer discovery, execution, and comms — plus an AI research assistant.",
+  "version": "0.2.0",
   "includes": [
     { "type": "skill", "name": "positioning" },
     { "type": "skill", "name": "competitive-analysis" },
+    { "type": "skill", "name": "pricing-strategy" },
+    { "type": "skill", "name": "user-interviews" },
+    { "type": "skill", "name": "cold-outreach" },
+    { "type": "skill", "name": "investor-update" },
+    { "type": "skill", "name": "weekly-planning" },
+    { "type": "skill", "name": "task-breakdown" },
+    { "type": "skill", "name": "decision-logs" },
     { "type": "skill", "name": "meeting-notes" },
+    { "type": "skill", "name": "technical-writing" },
     { "type": "agent", "name": "research-assistant" }
   ]
 }
