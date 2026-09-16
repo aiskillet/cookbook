@@ -1,0 +1,13 @@
+{
+  "name": "api-pack",
+  "description": "Everything for designing, integrating, and documenting APIs: design, client patterns, webhooks, OAuth, docs — plus the API-designer agent.",
+  "version": "0.1.0",
+  "includes": [
+    { "type": "skill", "name": "api-design" },
+    { "type": "skill", "name": "api-client-patterns" },
+    { "type": "skill", "name": "webhook-design" },
+    { "type": "skill", "name": "oauth-flows" },
+    { "type": "skill", "name": "api-docs" },
+    { "type": "agent", "name": "api-designer" }
+  ]
+}

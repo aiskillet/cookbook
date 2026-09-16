@@ -1,9 +1,15 @@
 {
   "name": "frontend-pack",
-  "description": "Build coherent, accessible UI: design systems and accessibility (a11y).",
-  "version": "0.1.0",
+  "description": "Build coherent, accessible, well-structured UI: design systems, design tokens, component APIs, responsive layout, UX writing, empty states — plus the accessibility-auditor agent.",
+  "version": "0.2.0",
   "includes": [
     { "type": "skill", "name": "design-systems" },
-    { "type": "skill", "name": "accessibility-a11y" }
+    { "type": "skill", "name": "design-tokens" },
+    { "type": "skill", "name": "component-api-design" },
+    { "type": "skill", "name": "responsive-layout" },
+    { "type": "skill", "name": "ux-writing" },
+    { "type": "skill", "name": "empty-states" },
+    { "type": "skill", "name": "accessibility-a11y" },
+    { "type": "agent", "name": "accessibility-auditor" }
   ]
 }
